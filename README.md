@@ -1,12 +1,11 @@
-# Dev Portfolio
+# MyPortfolio
 
-🚀 **[Dev Portfolio V2 has arrived. Meet Devfolio, a modern portfolio + blog template built with GatsbyJS and TailwindCSS](https://github.com/RyanFitzgerald/devfolio)** 🚀
+🚀 **[a modern portfolio + blog template built with GatsbyJS and TailwindCSS](https://github.com/ritikpatel17/myPortfolio)** 🚀
 
-This repo contains an easy-to-customize personal dev portfolio template that was created with Sass and JavaScript. It is lightweight and fully responsive, as well as comes with the Bootstrap grid system and loaded with Font Awesome. The site is static and comes production ready if you just want to add your information and go. Alternatively, you can edit styles, colours, and scripts fairly easily. The site was built as modular as possible to make it easy to shift around styles and content.
+This repo contains an easy-to-customize portfolio was created with Sass and JavaScript. It is lightweight and fully responsive, as well as comes with the Bootstrap grid system and loaded with Font Awesome.
 
-To view a live demo, [click here](https://ryanfitzgerald.github.io/devportfolio/).
+To view a live demo, [click here](https://ritikpatel17.github.io/myPortfolio/).
 
-Looking for a blog template? Checkout [DevBlog](https://github.com/RyanFitzgerald/devblog).
 
 ## Features
 
@@ -263,7 +262,7 @@ For a quick tutorial about formspree, check out this [tutsplus tutorial](https:/
 
 ### Footer Section
 
-The Footer contains an optional copyright where you can place your name as well as an unordered list of all of your social or coding related profiles. By default it contains Github, Stack Overflow, Facebook, Twitter, and Google Plus. You can add or remove them easily and simply use the Font Awesome icon associated with the social profile you wish to use. For a list of all icons, [click here](http://fontawesome.io/icons/).
+The Footer contains an optional copyright where you can place your name as well as an unordered list of all of your social or coding related profiles. By default it contains Github, Instagram, Facebook, Twitter, and Google. You can add or remove them easily and simply use the Font Awesome icon associated with the social profile you wish to use. For a list of all icons, [click here](http://fontawesome.io/icons/).
 
 ### Optional Sections
 
